@@ -1,18 +1,6 @@
-## Getting Started
+## <---WORK IN PROGRESS--->
+## QuizGame
+QuizGame is a simple game in which to win you have to answer all the questions correct. Each question has 4 possible answers but only one is correct. There two game modes: hard - 5 seconds to answer and easy = 20 seconds to answer. Additionally, there are a couple of thematical sets prepared. However, you can also import your own questions and answers to challenge your friends. Enjoy!!!
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## How to run?
+Instrustion ... //TBD
